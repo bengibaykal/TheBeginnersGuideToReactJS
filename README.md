@@ -12,3 +12,6 @@ Packages:
 Remove React propTypes from the production build, as they are only used in development. You can save bandwidth by removing them.
   https://www.npmjs.com/package/babel-plugin-transform-react-remove-prop-types
   
+3. Perfect example of rerendering with minimum DOM operation required. 
+07-rerendering
+
