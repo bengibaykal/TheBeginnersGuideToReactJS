@@ -24,3 +24,8 @@ Remove React propTypes from the production build, as they are only used in devel
   
   - Glamorous
   https://glamorous.rocks/getting-started/
+
+5. componentWillUnmount{
+     clearInterval();
+    }
+    // Stop Memory Leaks with componentWillUnmount Lifecycle Method in React
